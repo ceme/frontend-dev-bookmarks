@@ -433,7 +433,6 @@
     + [Baseline.js](https://github.com/daneden/Baseline.js)
     + [jKerny](http://clearideaz.com/jkerny/)
     + [Lettering.js](http://letteringjs.com/)
-    + [Trunk8](http://jrvis.com/trunk8/) is an intelligent text truncation plugin to jQuery. It will cut off just enough text to prevent it from spilling over
     + [CSS Typography cheat sheet](http://www.newnet-soft.com/blog/csstypography): Small roundup on CSS features that will enhance your web typography.
     + [Font Squirrel Webfont Generator](http://www.fontsquirrel.com/tools/webfont-generator)
 + Services (Free & Commercial)
@@ -480,7 +479,6 @@
     + [tween.js](https://github.com/sole/tween.js): Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations.
     + [Janis](https://github.com/MikeMcTiernan/Janis) is a lightweight JavaScript framework that provides simple animations via CSS transitions for modern browsers on the web as well as mobile devices.
     + [Rekapi](http://rekapi.com/): A keyframe animation library for JavaScript
-    + [CanvasScript3](http://www.arahaya.com/canvasscript3/) is a JavaScript library for the new HTML5 Canvas with an interface similar to ActionScript3. This library enables Sprite Groups, Layers, Mouse Events, Keyboard Events, Bitmap Effects, Tween Animations etc.
     + [Shifty](http://jeremyckahn.github.com/shifty/) is a tweening engine built in JavaScript.  It is designed to fit any number of tweening needs.
     + [emile.js](https://github.com/madrobby/emile) is a no-frills stand-alone CSS animation JavaScript framework.
     + [Firmin](http://extralogical.net/projects/firmin/): a JavaScript animation library using CSS transforms and transitions.
@@ -623,7 +621,6 @@
     + [BrowserStack] (http://www.browserstack.com/start) Comprehensive range of Browsers & Mobile Emulators available online for Live Testing and ready to use.
     + [FiveUI](http://galoisinc.github.io/FiveUI/) Extensible/open browser extension & headless system for testing UI Consistency guidelines (or anything else you can test with injected JS).
     + [Writing Testable JavaScript](http://alistapart.com/article/writing-testable-javascript)
-    + [Writing Testable Frontend JavaScript Part 1 – Anti-patterns and their fixes](https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/)
     + [Introduction to BDD](http://dannorth.net/introducing-bdd/)
     + [cucumber](https://github.com/cucumber/cucumber/wiki)
         + [cucumber.js](https://github.com/cucumber/cucumber-js)
